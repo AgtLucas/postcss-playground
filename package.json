@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AgtLucas/postcss-playground#readme",
   "dependencies": {
+    "cssnano": "^2.2.0",
     "gulp": "^3.9.0",
     "gulp-sass": "^2.0.4",
     "koa": "^0.21.0",
